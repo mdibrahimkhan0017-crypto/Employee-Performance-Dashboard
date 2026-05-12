@@ -1,0 +1,10 @@
+# Employee Performance Dashboard - Requirements
+# Python 3.9+ compatible
+
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+faker>=18.0.0
+
+# sqlite3 is part of the Python standard library — no installation needed

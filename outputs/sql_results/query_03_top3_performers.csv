@@ -1,0 +1,28 @@
+employee_id,employee_name,department,performance_score,performance_rating,dense_rank
+321,Gregory Ponce,Engineering,5.0,Excellent,1
+732,Vincent Johnson DDS,Engineering,4.98,Excellent,2
+571,Jennifer Hunter,Engineering,4.94,Excellent,3
+279,Louis Day,Finance,4.99,Excellent,1
+58,Charlene Larson,Finance,4.95,Excellent,2
+691,Julie Russell,Finance,4.87,Excellent,3
+484,Matthew Ryan,HR,4.97,Excellent,1
+430,Amanda Vaughan,HR,4.93,Excellent,2
+2,Michael Mcclain,HR,4.88,Excellent,3
+882,Karen Romero,IT,4.99,Excellent,1
+230,Jessica Riley,IT,4.86,Excellent,2
+577,Jorge Stone,IT,4.85,Excellent,3
+70,Dalton Walters,Legal,5.0,Excellent,1
+695,Henry Palmer,Legal,4.96,Excellent,2
+603,Angela Johnson,Legal,4.95,Excellent,3
+618,Danielle Dawson,Marketing,4.97,Excellent,1
+794,Jeff Bennett,Marketing,4.96,Excellent,2
+21,Lauren Hurst,Marketing,4.94,Excellent,3
+409,Erin Lane,Operations,4.95,Excellent,1
+687,Jeffrey Brandt,Operations,4.95,Excellent,1
+266,Kerry Chavez DDS,Operations,4.92,Excellent,2
+182,Thomas White,Operations,4.88,Excellent,3
+405,Scott Hester,Sales,4.99,Excellent,1
+836,Ronald Garcia,Sales,4.99,Excellent,1
+35,Pamela Anderson,Sales,4.96,Excellent,2
+330,Carla Guerra,Sales,4.96,Excellent,2
+188,Jason Lopez,Sales,4.95,Excellent,3
